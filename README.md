@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, Sejam bem vindos! 👋
 
-<!--
-**Asrlopes/Asrlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>Atualmente trampo no <a href="https://jobs.kenoby.com/vagascometa" target="_blank">Grupo Cometa</a> com VueJS e Flutter.</h5>
 
-Here are some ideas to get you started:
+##### venho de uma Base de JS e de React, atualmente estudando Elixir/Phoenix visando novas oportunidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤓 Sobre mim 
+
+- #####  💻 Curso Ciência da Computação na [UNEMAT]('http://portal.unemat.br/')
+
+- ##### Tenho 24 anos de idade
+
+- ##### Contatos: a.junior.srlopes@gmail.com ou [Linkedin]('https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/')
+
+- ##### Atualmente trabalhando em um projetinho chamado MyStock
+
+- ##### Apaixonado em elixir (sério eu ainda vou trampar com isso) 😍 🥰
