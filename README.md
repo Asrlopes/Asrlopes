@@ -16,4 +16,4 @@
 
 - ##### Apaixonado em elixir (sério eu ainda vou trampar com isso) 😍 🥰
 
-https://www.codewars.com/users/Asrlopes/badges/large
+<img src="https://www.codewars.com/users/Asrlopes/badges/large" />
