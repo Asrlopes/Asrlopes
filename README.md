@@ -16,6 +16,6 @@
 
 - ##### Apaixonado em elixir (sério eu ainda vou trampar com isso) 😍 🥰
 
-### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_self">Codewars</a>
+### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_blank">Codewars</a>
 
 <img src="https://www.codewars.com/users/Asrlopes/badges/large" />
