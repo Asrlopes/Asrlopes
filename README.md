@@ -10,7 +10,7 @@
 
 - ##### Tenho 24 anos de idade
 
-- ##### Contatos: a.junior.srlopes@gmail.com ou [Linkedin]('https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/')
+- ##### Contatos: a.junior.srlopes@gmail.com ou <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
 
 - ##### Atualmente trabalhando em um projetinho chamado MyStock
 
