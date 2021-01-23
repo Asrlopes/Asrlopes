@@ -15,3 +15,5 @@
 - ##### Atualmente trabalhando em um projetinho chamado MyStock
 
 - ##### Apaixonado em elixir (sério eu ainda vou trampar com isso) 😍 🥰
+
+https://www.codewars.com/users/Asrlopes/badges/large
