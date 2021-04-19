@@ -1,6 +1,6 @@
 ### Olá, Sejam bem vindos! 👋
 
-<h5>Atualmente trampo no <a href="https://jobs.kenoby.com/vagascometa" target="_blank">Grupo Cometa</a> com VueJS e Flutter.</h5>
+<h5>Atualmente trabalho no <a href="https://jobs.kenoby.com/vagascometa" target="_blank">Grupo Cometa</a> com VueJS e Flutter.</h5>
 
 ##### venho de uma Base de JS e de React, atualmente estudando Elixir/Phoenix visando novas oportunidades.
 
