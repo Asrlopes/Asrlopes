@@ -14,7 +14,7 @@
 
 - ##### Atualmente trabalhando em um projetinho chamado MyStock
 
-- ##### Apaixonado em elixir (sério eu ainda vou trampar com isso) 😍 🥰
+- ##### Apaixonado em elixir 😍 🥰
 
 ### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_blank">Codewars</a>
 
