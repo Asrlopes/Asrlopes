@@ -1,8 +1,7 @@
 ### Olá, Sejam bem vindos! 👋
 
-<!-- <h5>Atualmente trabalho no <a href="https://jobs.kenoby.com/vagascometa" target="_blank">Grupo Cometa</a> com VueJS e Flutter.</h5>
+<!-- <h5>Atualmente trabalho na <a href="https://apply.workable.com/brainn/" target="_blank">Brainn</a> com Elixir.</h5>
 
-##### venho de uma Base de JS e de React, atualmente estudando Elixir/Phoenix visando novas oportunidades. -->
 
 ### 🤓 Sobre mim 
 
