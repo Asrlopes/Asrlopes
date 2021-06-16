@@ -13,9 +13,6 @@
 
 - ##### Contatos: a.junior.srlopes@gmail.com ou <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
 
-- ##### Atualmente trabalhando em um projetinho chamado MyStock
-
-- ##### Apaixonado em elixir 😍 🥰
 
 ### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_blank">Codewars</a>
 
