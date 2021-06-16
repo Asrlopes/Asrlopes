@@ -1,4 +1,4 @@
-### Olá, Sejam bem vindos! 👋
+### Olá, Seja bem vindo! 👋
 
  <h5>Atualmente trabalho na <a href="https://apply.workable.com/brainn/" target="_blank">Brainn</a>.</h5>
 
