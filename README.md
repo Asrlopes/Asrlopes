@@ -7,6 +7,8 @@
 
 - #####  💻 Curso Ciência da Computação na [UNEMAT]('http://portal.unemat.br/')
 
+- ##### Elixir Developer
+
 - ##### Tenho 24 anos de idade
 
 - ##### Contatos: a.junior.srlopes@gmail.com ou <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
