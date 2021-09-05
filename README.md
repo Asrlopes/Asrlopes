@@ -11,7 +11,7 @@
 
 - ##### Tenho 24 anos de idade
 
-- ##### Contatos: a.junior.srlopes@gmail.com ou <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
+- ##### Contato: <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
 
 
 ### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_blank">Codewars</a>
