@@ -9,7 +9,7 @@
 
 - ##### Elixir Developer
 
-- ##### Tenho 24 anos de idade
+- ##### Tenho 25 anos de idade
 
 - ##### Contato: <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
 
