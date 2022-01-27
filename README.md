@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo! 👋
 
- <h5>Atualmente trabalho na <a href="https://apply.workable.com/brainn/" target="_blank">Brainn</a>.</h5>
+ <h5>Atualmente trabalho no <a href="https://www.finbits.com.br/" target="_blank">Finbits</a>.</h5>
 
 
 ### 🤓 Sobre mim 
