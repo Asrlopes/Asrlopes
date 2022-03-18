@@ -5,7 +5,7 @@
 
 ### 🤓 Sobre mim 
 
-- #####  💻 Curso Ciência da Computação na [UNEMAT]('http://portal.unemat.br/')
+- #####  💻 Curso Ciência da Computação na <a href="https://unemat.br/" target="_blank">UNEMAT</a>.</h5>) 
 
 - ##### Elixir Developer
 
@@ -14,6 +14,4 @@
 - ##### Contato: <a href="https://www.linkedin.com/in/amor%C3%A9sio-de-souza-429ba314b/" target="_blank">Linkedin</a>
 
 
-### Meu perfil no <a href="https://www.codewars.com/users/Asrlopes" target="_blank">Codewars</a>
 
-<img src="https://www.codewars.com/users/Asrlopes/badges/large" />
