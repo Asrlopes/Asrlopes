@@ -5,7 +5,7 @@
 
 ### 🤓 Sobre mim 
 
-- #####  💻 Curso Ciência da Computação na <a href="https://unemat.br/" target="_blank">UNEMAT</a>.</h5>) 
+- #####  💻 Curso Ciência da Computação na <a href="https://unemat.br/" target="_blank">UNEMAT</a>.</h5>
 
 - ##### Elixir Developer
 
