@@ -8,7 +8,7 @@ Comecei como estagiário há 4 anos, nesses anos trabalhei com desenvolvimento m
 
 * 🌍  Cáceres - MT
 * ✉️  [ajuniordev96@gmail.com](mailto:ajuniordev96@gmail.com)
-* 🚀  working on [Finbits](http://www.finbits.com.br/)
+* 🚀  Open to Work
 * 🧠  Aprendendo Rutst / Kotlin
 
 ### Skills
