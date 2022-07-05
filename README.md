@@ -4,12 +4,12 @@ Olá 👋 Meu nome é Amorésio de Souza
 Full Stack Developer
 --------------------
 
-Comecei como estagiário há 4 anos, nesses anos trabalhei com desenvolvimento mobile com React Native e Web com React e VueJS, e há 1 ano e meio estou trabalhando como backend enginner com Elixir.
+Software engineer with four years of experience, I have worked with full stack development using ReactJS, React Native for mobile and NodeJS for backend, currently working and focused on the Elixir + Phoenix stack.
 
 * 🌍  Cáceres - MT
 * ✉️  [ajuniordev96@gmail.com](mailto:ajuniordev96@gmail.com)
 * 🚀  Open to Work
-* 🧠  Aprendendo Rutst / Kotlin
+* 🧠  Learning Rutst / Kotlin
 
 ### Skills
 
