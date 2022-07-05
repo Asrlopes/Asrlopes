@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Amorésio de Souza
+Hi 👋 you're welcome
 ==================================
 
 Full Stack Developer
