@@ -8,7 +8,7 @@ Software engineer with four years of experience, I have worked with full stack d
 
 * 🌍  Cáceres - MT
 * ✉️  [ajuniordev96@gmail.com](mailto:ajuniordev96@gmail.com)
-* 🚀  Open to Work
+* 🚀  [Working for idopter labs](https://www.idopterlabs.com.br/)
 * 🧠  Learning Rutst / Kotlin
 
 ### Skills
