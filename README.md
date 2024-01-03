@@ -4,7 +4,7 @@ Hi 👋 you're welcome
 Full Stack Developer
 --------------------
 
-Software engineer with four years of experience, I have worked with full stack development using ReactJS, React Native for mobile and NodeJS for backend, currently working and focused on the Elixir + Phoenix stack.
+Software engineer with five years of experience, I have worked with full stack development using ReactJS, React Native for mobile and NodeJS for backend, currently working and focused on the Elixir + Phoenix stack.
 
 * 🌍  Cáceres - MT
 * ✉️  [ajuniordev96@gmail.com](mailto:ajuniordev96@gmail.com)
